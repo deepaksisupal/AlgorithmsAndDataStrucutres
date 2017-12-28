@@ -2,7 +2,7 @@ package algo.sort.insertion;
 
 import java.util.Arrays;
 
-public class InsertationSort_1 {
+public class InsertionSort_1 {
 
 	public static void main(String[] args) {
 		
