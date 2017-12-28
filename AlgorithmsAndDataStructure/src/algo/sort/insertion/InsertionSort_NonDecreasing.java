@@ -3,9 +3,9 @@ package algo.sort.insertion;
 import java.util.Arrays;
 import java.util.logging.Logger;
 
-public class InsertionSort_1 {
+public class InsertionSort_NonDecreasing {
 
-	private final static Logger LOGGER = Logger.getLogger(InsertionSort_1.class.getName());
+	private final static Logger LOGGER = Logger.getLogger(InsertionSort_NonDecreasing.class.getName());
 	
 	public static void main(String[] args) {
 		
